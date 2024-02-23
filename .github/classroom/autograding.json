@@ -1,0 +1,24 @@
+{
+  "tests": [
+    {
+      "name": "program1.js",
+      "setup": "npm install",
+      "run": "npm run test1",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 20
+    },
+    {
+      "name": "program2.js",
+      "setup": "npm install",
+      "run": "npm run test2",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 20
+    }
+  ]
+}
